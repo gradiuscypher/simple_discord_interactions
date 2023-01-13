@@ -1,0 +1,9 @@
+{
+    "permissions": [
+        {
+            "id": USER_ID_HERE,
+            "type": 2,
+            "permission": true
+        }
+    ]
+}
